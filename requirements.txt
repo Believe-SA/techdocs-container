@@ -1,1 +1,3 @@
 mkdocs-techdocs-core==1.6.1
+# Pinned click to avoid issues with autoreload https://github.com/squidfunk/mkdocs-material/issues/8478
+click==8.2.1
